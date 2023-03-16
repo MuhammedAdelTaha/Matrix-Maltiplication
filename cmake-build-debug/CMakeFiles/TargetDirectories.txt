@@ -1,0 +1,3 @@
+C:/Users/Mohamed Adel/CLionProjects/Matrix_Maltiplication/cmake-build-debug/CMakeFiles/Matrix_Maltiplication.dir
+C:/Users/Mohamed Adel/CLionProjects/Matrix_Maltiplication/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Mohamed Adel/CLionProjects/Matrix_Maltiplication/cmake-build-debug/CMakeFiles/rebuild_cache.dir
